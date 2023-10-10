@@ -1,0 +1,40 @@
+
+h1{
+    align:center;
+}
+
+div.caja1 {
+    padding: 10px;
+    margin-bottom: 10px;
+    font-family: sans-serif; 
+    font-size: 18px; 
+    
+    font-weight: 400; 
+    color: #000000; 
+    background:#6c6467 
+}
+div.caja2 {
+    padding: 10px;
+    margin-bottom: 10px;
+    font-family: sans-serif; 
+    font-size: 18px; 
+    font-weight: 400; 
+    color: #040404; 
+    background:#6c6467 
+}
+#texto1 {
+        display: inline-block;
+        vertical-align: top;     
+}
+#texto2 {
+    display: inline-block;
+    vertical-align: top;  
+}
+img.img1 {
+width: 130px;
+height: 130px;
+}
+img.img2{
+width: 100px;
+height: 130px;
+}
