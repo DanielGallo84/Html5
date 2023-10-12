@@ -2,9 +2,9 @@
 h1{
     text-align: center;
 }
-     section.seccion1{     
-        
+     section.seccion1{       
         display: flex;   
+        height:auto
         
         }
     .box_title1 {
@@ -46,6 +46,7 @@ section.seccion2{
     margin-bottom: 100px;
     margin-right: 300px;
     margin-left: 30%;
+    height:auto
     }
 
 .box_title2 {
